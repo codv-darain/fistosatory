@@ -1,3 +1,4 @@
 # fistosatory
-this is my git reposatory
-author - Darain ah Khan 
+This is my First Git Reposatory
+<br>
+Author - Darain ah Khan 
